@@ -195,3 +195,8 @@ elif choice == 'Cadastrar Requisitos':
             display_creators_with_button(st.session_state['filtered_creators'])
         else:
             st.write("Nenhum criador encontrado com os requisitos fornecidos.")
+
+
+
+            ####ANALISE TESTE TESTE GITHUB 
+            
